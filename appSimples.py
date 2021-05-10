@@ -1,6 +1,7 @@
 # this is a simple application that just writes to a log file.
 # the objective is just to produce a log to test another solution that consumes logs (cloudwatch agent and cloudwatch logs).
 # keywords: log, logfile, cloudwatch, cloudwatch agent, cloudwatch logs
+# .
 
 import random
 import time
