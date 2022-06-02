@@ -22,10 +22,3 @@ while True:
     del(n)
     time.sleep(1)
 
-    
-    
-[default]
-aws_access_key_id = AKIAYVP4CIPPBDCX757X
-aws_secret_access_key = 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
-output = json
-region = us-east-2
